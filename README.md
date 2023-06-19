@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats-dhruva71.vercel.app/api/top-langs?username=dhruva71&hide=ShaderLab,GLSL&langs_count=8&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-dhruva71.vercel.app/api/top-langs?username=dhruva71&hide=ShaderLab,GLSL&langs_count=8&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
